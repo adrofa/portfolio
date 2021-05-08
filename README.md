@@ -1,7 +1,7 @@
-# Curriculum Vitae
-As of May-2020 (ENG) - [link](https://github.com/adrofa/profile/raw/master/Artem_Drofa_CV_ENG.pdf)
 
-# Contacts
+**Curriculum Vitae** *(as of May-2020)***:** [download link](https://github.com/adrofa/profile/raw/master/Artem_Drofa_CV_ENG.pdf)
+
+**Contacts:**
 * e-mail: `artem.drofa@gmail.com`
 * Telegram: [`adrofa`](https://t.me/adrofa)
 * phone / WhatsApp: `+7-915-206-12-26`
