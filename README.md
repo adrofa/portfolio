@@ -64,7 +64,7 @@ https://nbviewer.jupyter.org/github/adrofa/recruitment-tasks/blob/master/youtube
 
 Here I used 'YouTube Data API V3' to build a parser within a 4h time limit.
 
-### [Test Task] Steam Games Recommendations
+### Test Task: Steam Games Recommendations
 [nbviewer link](
 https://nbviewer.jupyter.org/github/adrofa/recruitment-tasks/blob/master/steam_games_recommendations/steam_games_recommendations.ipynb)
 
