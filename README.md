@@ -1,5 +1,5 @@
 
-**Curriculum Vitae** *(as of May-2020)***:** [download link](https://github.com/adrofa/profile/raw/master/Artem_Drofa_CV_ENG.pdf)
+**Curriculum Vitae** *(as of May-2020)***:** [download link](https://github.com/adrofa/portfolio/raw/master/Artem_Drofa_CV_ENG.pdf)
 
 **Contacts:**
 * e-mail: `artem.drofa@gmail.com`
