@@ -9,7 +9,7 @@ As of May-2020 (ENG) - [link](https://github.com/adrofa/profile/raw/master/Artem
 # Portfolio of Selected Projects 
 
 ## 2021
-### Kaggle Competition: HuBMAP - Hacking the Kidney
+### Kaggle Competition: [HuBMAP - Hacking the Kidney](https://www.kaggle.com/c/hubmap-kidney-segmentation)
 *[Repository Link](https://github.com/adrofa/hubmap-kaggle-comp)*
 
 Solving semantic segmentation task for detection of functional tissue units (FTUs)
